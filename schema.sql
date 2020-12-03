@@ -45,5 +45,5 @@ CREATE TABLE titles (
 	title VARCHAR(40) NOT NULL,
 	from_date DATE NOT NULL,
 	to_date DATE NOT NULL,
-	PRIMARY KEY (emp_no)
+--	PRIMARY KEY (emp_no) this gives us an error as there are duplicate emp_no in the table - must be an employee that has been promoted to another position
 );
