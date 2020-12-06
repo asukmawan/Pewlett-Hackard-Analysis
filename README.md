@@ -41,9 +41,7 @@ For those that are eligible for mentorship, out of 1549 eligible employees anoth
 ### Figure 3 - Mentor Eligible Employees and their Current Titles
 <img src="Resources/fig3.png"></img>
 
-We can refer back to [Figure 1](#Figure-1---Number-of-Retiring-employees-per-title), and in comparing it to the above distribution, we can conclude that there is definitely not enough mentor-eligible employees in the company to fill the roles of those leaving for retirement. Considering that only 1549 employees are eligible for the mentorship program, while 90,398 employees positions will be vacant soon, 88,849 employees will need to be hired to fill the remaining positions if all positions need to be replaced. This does not include positions left by those taking the mentorship.
-
-These two facts would suggest that the criteria for eligible mentors could be broadened, or PH will have to heavily rely on outside hires to fill in the roles left by the "silver tsunami" 
+We can refer back to [Figure 1](#Figure-1---Number-of-Retiring-employees-per-title), and in comparing it to the above distribution, we can conclude that there is definitely not enough mentor-eligible employees in the company to fill the roles of those leaving for retirement. Considering that only 1549 employees are eligible for the mentorship program, while 90,398 employees positions will be vacant soon, 88,849 employees will need to be hired to fill the remaining positions if all positions need to be replaced. This does not include positions left by those taking the mentorship. These two facts would suggest that the criteria for eligible mentors could be broadened, or PH will have to heavily rely on outside hires to fill in the roles left by the "silver tsunami" 
 
 Aside from the manager title, there are enough qualified retirement-ready employees to mentor the next generation of PH employees. To see why managers numbers are so low, a couple of quick queries were done to check and see how many managers there are in total that are currently at PH. 
 
